@@ -4,7 +4,7 @@
 
 **Aspiring Level 6 Cybersecurity Degree Apprentice**
 
-Python Development &nbsp;·&nbsp; Secure Software &nbsp;·&nbsp; AI Reliability
+Cybersecurity Engineering &nbsp;·&nbsp; Python Development &nbsp;·&nbsp; AI Reliability
 
 </div>
 
@@ -20,6 +20,7 @@ My long-term goal is to work in **ethical hacking and security architecture**, c
 
 | Project | What it demonstrates |
 | --- | --- |
+| **[SENTINEL — Security Log Analyser](https://github.com/k1ngXravioli/Security-Log-Analyser)** | A Python/Tkinter SOC-style desktop dashboard for SSH and web-log analysis, with alert correlation, offline file monitoring, a geographic display, **24 automated tests** and a **27-scenario labelled synthetic benchmark**. |
 | **[Python Meal Planner](https://github.com/k1ngXravioli/Python-Meal-Planner)** | A Tkinter desktop application built around a **binary search tree**, with recursive insertion, alphabetical in-order traversal, input validation and automated tests. |
 | **[NOIR / CINEMA — Movie Ticket Booking](https://github.com/k1ngXravioli/Python-Movie-Ticket-Booking)** | A cinema-themed Python booking application featuring a graphical seat map, **object-oriented programming**, nested-list data structures, booking validation and double-booking prevention. |
 | **[JARVIS AI — Reliability Case Study](https://github.com/k1ngXravioli/JARVIS-AI-Reliability-Case-Study)** | An independent source-code investigation of an existing open-source voice assistant, examining **transcript processing, asynchronous audio handling, session continuity and queue reliability**. Original application credited in the project. |
@@ -31,7 +32,7 @@ My long-term goal is to work in **ethical hacking and security architecture**, c
 | **Programming** | Python, object-oriented programming, functions, recursion and data structures |
 | **Application development** | Tkinter / ttk, graphical interfaces, input validation and state management |
 | **Testing & debugging** | Python `unittest`, problem decomposition, source-code review and error handling |
-| **Cybersecurity foundations** | Networking, security risks, system reliability and secure software principles |
+| **Cybersecurity foundations** | SSH/web log analysis, sliding-window detection, event correlation, firewall concepts and network security |
 | **Exploring** | Asynchronous processing, AI-integrated applications, ethical hacking and vulnerability assessment |
 
 ### Education & development
